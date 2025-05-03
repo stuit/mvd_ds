@@ -1,0 +1,62 @@
+  "protocolId": 41474452,]protocolid                 
+  "createdTime": "15-07-2024 19:10:28",]createdtime                      
+  "updatedTime": "15-07-2024 19:10:28",]updatedtime   
+  "violationTime": "10-06-2024 20:00:00",]violationtime                      
+  "regionId": 4,]regionid                          
+  "districtId": 61,]districtid
+  "mtpId": 6619,]mtpid                               
+  "organId": 14,]organid       
+  "protocolArticlePart": "183 - MODDA",]protocolarticlepart        
+  "inspectorWorkCertificate": "QV-I-06351",]inspectorworkcertificate       
+  "inspectorPinpp": "31702902680042",]inspectorpinpp     
+  "inspectorBirthdate": "17-02-1990 00:00:00",]inspectorbirthdate                         
+  "latitude": null,]latitude                       
+  "longitude": null,]longitude                               
+  "series": "PKSH",]series                                   
+  "number": "2407302481506",]number   
+  "inspectorFio": "SHIRINOV ZAVQIDDIN MUXIDDINOVICH",]inspectorfio                     
+  "status": ]casestatus                 
+  "statusName": "IJRO ETILISHINI KUTISH",]casestatusname             
+  "lastName": "ESHBOYEVA",]lastname                            
+  "firstName": "MAVJUDA",]firstname                      
+  "secondName": "BOYBO‘RIYEVNA",]secondname                     
+  "documentSeries": "AB",]documentseries              
+  "documentNumber": "5817995",]documentnumber  
+  "pinpp": "42601871800094",]pinpp        
+  "birthDate": "26-01-1987 00:00:00",]birthdate                               
+  "violatorGender": "AYOL",]violatorgender        
+  "intoxicationTypeName": null,]violatorintoxicationname                                
+  "intoxicationTypeId": null,]violatorintoxicationid        
+  "violatorRegionId": 4,]violatoractualaddressregionid          
+  "violatorDistrictId": 61,]violatoractualaddressdistrictid                    
+  "decisionTypeId": 1,]decisiontypeid             
+  "decisionTypeName": "MA\u0027MURIY JAZO QO\u0027LLASH",]decisiontypename                                     
+  "executionDate": null,]executiondate           
+  "mainPunishmentType": "JARIMA",]mainpunishmenttype    
+  "mainPunishmentAmount": "340 000.00 so`m / to`lanmagan",]mainpunishmentamount                
+  "resolutionOrganId": 20,]resolutionorganid                                       
+  "admCaseOrganId": 14,]admcaseorganid                  
+  "admCaseOrgan": "HPX (PROFILAKTIKA)",]admcaseorgan  
+  "resolutionOrgan": "JINOYAT ISHLAR BO`YICHA SUDI",]resolutionorgan     
+  "resolutionConsiderInfo": "Нармуратов Бахром Зиядуллаевич",]resolutionconsiderinfo                 
+  "punishmentTypeId": 1,]punishmenttypeid                           
+  "terminationReasonId": null,]terminationreasonid                                 
+  "protocolArticlePartId": 1589,]protocolarticlepartid    
+  "victimId": 990304,]victimid                
+  "victimPinpp": "40802685580024",]victimpinpp        
+  "mainPunishmentAmountSumm": 34000000,]mainpunishmentamountsumm         
+  "mainPunishmentPaidAmount": 0,]mainpunishmentpaidamount         
+  "mainPunishmentLastPayTime": null]mainpunishmentlastpaytime               
+  "discountForDate70": "2024-08-16",]discountfordate70                     
+  "discountAmount70": 23800000,]discountamount70        
+  "discountForDate50": "2024-08-01",]discountfordate50                               
+  "discountAmount50": 17000000,]discountamount50                            
+  "damageAmount": null,]damageamount                     
+  "damageTypeId": null,]damagetypeid                     
+  "damageTypeName": null,]damagetypename   
+  "compensationAmount": null,]compensationamount         
+  "compensationPaidAmount": null,]compensationpaidamount  
+
+
+  "eventId": 54199835, --------------                           
+  "violatorBirthdate": "26-01-1987 00:00:00", --------------     
